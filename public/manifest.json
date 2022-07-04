@@ -1,5 +1,6 @@
 {
-  "short_name": "React App",
+  "short_name": "MUI Autocomplete Sample",
+  "name": "MUI Autocomplete Sample",
   "icons": [
     {
       "src": "favicon.ico",
